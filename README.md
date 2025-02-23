@@ -8,3 +8,4 @@ Un modèle de Machine Learning pour la prédiction de maladies à sortie multipl
 - 🔍 Validation croisée et évaluation des performances
 - 🏥 Prédiction des maladies sur de nouvelles données
 
+#### Data from : https://www.kaggle.com/code/rassiem/multiple-disease-prediction-98
